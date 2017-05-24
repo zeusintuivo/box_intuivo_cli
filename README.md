@@ -4,7 +4,7 @@
 ## Installation
 Box Scripts contain scripts designed for both running _**inside**_ WPLib Box as well as running alongside WPLib Box on the host computer.
 
-If you are using ONLY &mdash; [WPLib Box 0.11.0) &mdash; And it does not automatically install anymore.
+If you are using ONLY &mdash; WPLib Box 0.11.0 &mdash; And it does not automatically install anymore.
 
 ## Getting Help
 After that type `box` to get a list of commands, or explicitly specify `help`:
