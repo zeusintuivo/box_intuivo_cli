@@ -1,10 +1,10 @@
-#Box Scripts for the WPLib Box
+# Box Scripts for the WPLib Box
 
 
 ## Installation
-Box Scripts contain scripts designed for both running _**inside**_ WPLib Box as well as running alongside WPLib Box on the host computer. 
+Box Scripts contain scripts designed for both running _**inside**_ WPLib Box as well as running alongside WPLib Box on the host computer.
 
-If you are using the latest &mdash; [WPLib Box 0.10.9 or later](https://github.com/wplib/wplib-box) &mdash; it will automatically have been installed.
+If you are using ONLY &mdash; [WPLib Box 0.11.0) &mdash; And it does not automatically install anymore.
 
 ## Getting Help
 After that type `box` to get a list of commands, or explicitly specify `help`:
@@ -23,7 +23,7 @@ If you want to use it plan up updating it and not building scripts that depend o
 
 ## License/Copyright
 
-This repository is free to use with absolutely no warranty.   
+This repository is free to use with absolutely no warranty.
 
 See [LICENSE.md](LICENSE.md) for more detail.
 
